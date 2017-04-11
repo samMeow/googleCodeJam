@@ -1,0 +1,6 @@
+Case #1: 3
+Case #2: 321  
+Case #3: 532  
+Case #4: 653  
+Case #5: 432  
+Case #6: 321  
